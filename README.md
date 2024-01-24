@@ -1,6 +1,7 @@
 # GLSkelton
-GLSkeleton: A Geometric Laplacian-based Skeletonisation Framework for Object Point Clouds
-Abstract— The curve skeleton is known to geometric mod-
+#GLSkeleton: A Geometric Laplacian-based Skeletonisation Framework for Object Point Clouds
+##Abstract 
+The curve skeleton is known to geometric mod-
 elling and computer graphics communities as one of the shape
 descriptors which intuitively indicates the topological properties
 of the objects. In recent years, studies have also suggested the
