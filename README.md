@@ -1,4 +1,4 @@
-# GLSkelton
+# GLSkeleton
 ## GLSkeleton: A Geometric Laplacian-based Skeletonisation Framework for Object Point Clouds
 ### Abstract 
 The curve skeleton is known to geometric mod-
