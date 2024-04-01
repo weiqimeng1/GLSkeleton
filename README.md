@@ -20,4 +20,4 @@ open source dataset, and they have demonstrated a significant
 improvement in both contraction and overall skeletonisation
 computational speed.
 
-IEEE RA-L - [<b>GLSkeleton </b>]([https://ieeexplore.ieee.org/document/10160350](https://ieeexplore.ieee.org/document/10487876))
+IEEE RA-L - [<b>GLSkeleton</b>](https://ieeexplore.ieee.org/document/10487876)
