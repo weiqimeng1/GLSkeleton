@@ -21,4 +21,3 @@ improvement in both contraction and overall skeletonisation
 computational speed.
 
 IEEE RA-L - [<b>GLSkeleton</b>](https://ieeexplore.ieee.org/document/10487876)
-Code will be available soon
